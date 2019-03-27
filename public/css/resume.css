@@ -189,7 +189,3 @@
   a:hover, a:focus, a:active {
     color:  rgb(122, 22, 131);
   }
-  
-  .bo{
-    flex-wrap: wrap;
-  }
