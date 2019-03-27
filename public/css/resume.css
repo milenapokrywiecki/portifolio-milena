@@ -191,5 +191,5 @@
   }
   
   .bo{
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
   }
