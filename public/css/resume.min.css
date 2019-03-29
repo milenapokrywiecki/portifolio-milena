@@ -159,6 +159,9 @@ a:active,a:focus,a:hover{
    color: rgb(122, 22, 131);
 }
 .bo{
-   flex-wrap: wrap;
+   display: flex;
    flex-direction: row;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-around;
  }
