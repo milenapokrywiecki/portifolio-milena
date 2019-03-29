@@ -189,7 +189,7 @@
   a:hover, a:focus, a:active {
     color:  rgb(122, 22, 131);
   }
-  
+
   .container-images{
-    flex-direction: row;
+    flex-wrap: wrap;
   }
