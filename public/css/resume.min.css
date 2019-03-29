@@ -167,7 +167,7 @@ a:active,a:focus,a:hover{
   
  }
  .im{
-   border-radius: 100%;
+   border-radius: 30%;
    padding: 10px;
    margin: 10px;
    float: none;
