@@ -190,6 +190,7 @@
     color:  rgb(122, 22, 131);
   }
   
-  .bo{
-    flex-wrap: wrap;
+  .imagem-bebe{
+    width: 150px;
+    height: 180px;
   }
