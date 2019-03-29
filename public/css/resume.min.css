@@ -164,11 +164,5 @@ a:active,a:focus,a:hover{
    flex-wrap: wrap;
    align-items: center;
    justify-content: space-around;
-   box-sizing: border-box;
+
  }
- .shadow{
-   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
- }
- .shadow:hover {
-   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
