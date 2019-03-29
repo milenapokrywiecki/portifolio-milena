@@ -196,5 +196,8 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
-    margin-left: 20px;
+    border: #343a40;
+    padding: 20px;
+    margin: 10px;
+    float: none;
   }
