@@ -164,6 +164,9 @@ a:active,a:focus,a:hover{
    flex-wrap: wrap;
    align-items: center;
    justify-content: space-around;
+  
+ }
+ .im{
    border: #343a40;
    padding: 20px;
    margin: 10px;
