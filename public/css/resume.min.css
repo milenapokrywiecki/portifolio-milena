@@ -158,6 +158,6 @@ a{
 a:active,a:focus,a:hover{
    color: rgb(122, 22, 131);
 }
-.container-images{
+.bo{
    flex-wrap: wrap;
  }
