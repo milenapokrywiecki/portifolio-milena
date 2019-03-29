@@ -191,5 +191,5 @@
   }
   
   .container-images{
-    flex-wrap: nowrap;
+    flex-direction: row;
   }
