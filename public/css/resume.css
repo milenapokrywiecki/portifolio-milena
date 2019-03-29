@@ -197,14 +197,7 @@
     align-items: center;
     justify-content: space-around;
     box-sizing: border-box;
-    width: 100%;
-    padding: 10px;
   }
-
-  .image {
-    height: 230px;
-    width: 230px;
-}
 
   .shadow{
     height: 400px;

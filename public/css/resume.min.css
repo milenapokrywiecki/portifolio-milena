@@ -165,9 +165,6 @@ a:active,a:focus,a:hover{
    align-items: center;
    justify-content: space-around;
    box-sizing: border-box;
-   width: 100%;
-   padding: 10px;
-   
  }
  .shadow{
    height: 400px;
