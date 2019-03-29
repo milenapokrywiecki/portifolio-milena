@@ -160,4 +160,5 @@ a:active,a:focus,a:hover{
 }
 .bo{
    flex-wrap: wrap;
+   flex-direction: row;
  }
